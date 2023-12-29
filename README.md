@@ -1,4 +1,4 @@
-# README for Deep Learning Course Assignments
+# Deep Learning Course
 
 This repo contained the completed codes as part of a deep learning course. The focus of these was to apply deep learning techniques using Python and PyTorch to solve various problems related to image classification, generative adversarial networks (GANs), and object detection.
 
