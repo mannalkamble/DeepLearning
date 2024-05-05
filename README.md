@@ -1,6 +1,6 @@
-# Deep Learning Course
+# Deep Learning
 
-This repo contained the completed codes as part of a deep learning course. The focus of these was to apply deep learning techniques using Python and PyTorch to solve various problems related to image classification, generative adversarial networks (GANs), and object detection.
+This repository contains projects focusing on applying Python and PyTorch to tackle problems in image classification, GANs, and object detection, featuring projects like FashionMNIST classification and AlexNet training.
 
 ### 1: Improving the FashionMNIST Classifier
 **Objective:** Enhance classification performance of the FashionMNIST dataset using a neural network.  
